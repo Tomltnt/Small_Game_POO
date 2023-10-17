@@ -1,2 +1,2 @@
-# Small_Game_POO
+# small_game_POO
 Mon Pootijeu
